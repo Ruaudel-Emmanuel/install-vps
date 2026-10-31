@@ -4,15 +4,6 @@ Ce script est l'industrialisation du socle que je déploie chez mes clients : un
 
 ---
 
-## 🤝 Ce projet, c'est aussi mon métier
-
-**Emmanuel Ruaudel — Directeur de la Transformation Numérique pour TPE/PME.**
-J'aide les dirigeants à libérer 5 à 10 h par semaine en automatisant leurs tâches
-répetitives : audit des processus, cas d'usage IA à fort ROI, déploiement et
-fiabilisation (n8n · Python · IA locale).
-
-📧 [ruaudel.emmanuel@orange.fr](mailto:ruaudel.emmanuel@orange.fr) · 🌐 [rennesdev.fr](https://rennesdev.fr)
-
 > Script d'installation pour déployer un **VPS d'automatisation** clé en main :
 > n8n + Ollama (IA locale) + monitoring + backups.
 >
@@ -150,10 +141,19 @@ install-vps/
 
 ---
 
+
+## 🤝 Ce projet, c'est aussi mon métier
+
+**Emmanuel Ruaudel — Directeur de la Transformation Numérique pour TPE/PME.**
+J'aide les dirigeants à libérer 5 à 10 h par semaine en automatisant leurs tâches
+répetitives : audit des processus, cas d'usage IA à fort ROI, déploiement et
+fiabilisation (n8n · Python · IA locale).
+
+📧 [ruaudel.emmanuel@orange.fr](mailto:ruaudel.emmanuel@orange.fr) · 🌐 [rennesdev.fr](https://rennesdev.fr)
+
 ## 📝 Licence
 
 MIT — Utilisation libre, modification, distribution.
-Développé par [Emmanuel Ruaudel](https://github.com/Ruaudel-Emmanuel).
 
 ---
 
